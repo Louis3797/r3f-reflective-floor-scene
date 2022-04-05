@@ -1,9 +1,9 @@
 <div id="top"></div>
 
-[![GitHub forks](https://badgen.net/github/forks/Louis3797/r3f-world-with-character/)](https://github.com/Louis3797/r3f-world-with-character/network/)
-[![GitHub stars](https://badgen.net/github/stars/Louis3797/r3f-world-with-character/)](https://github.com/Louis3797/r3f-world-with-character/stargazers/)
-[![GitHub issues](https://badgen.net/github/issues/Louis3797/r3f-world-with-character/)](https://github.com/Louis3797/r3f-world-with-character/issues/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Louis3797/r3f-world-with-character//blob/main/LICENSE)
+[![GitHub forks](https://badgen.net/github/forks/Louis3797/r3f-reflective-floor-scene/)](https://github.com/Louis3797/r3f-world-with-character/network/)
+[![GitHub stars](https://badgen.net/github/stars/Louis3797/r3f-reflective-floor-scene/)](https://github.com/Louis3797/r3f-world-with-character/stargazers/)
+[![GitHub issues](https://badgen.net/github/issues/Louis3797/r3f-reflective-floor-scene/)](https://github.com/Louis3797/r3f-world-with-character/issues/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Louis3797/r3f-reflective-floor-scene/blob/main/LICENSE)
 
 <!-- PROJECT LOGO -->
 <br />
